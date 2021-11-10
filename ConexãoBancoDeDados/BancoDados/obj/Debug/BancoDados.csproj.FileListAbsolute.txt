@@ -1,0 +1,10 @@
+C:\Project\CSharp\Advanced\ConexãoBancoDeDados\BancoDados\bin\Debug\BancoDados.exe.config
+C:\Project\CSharp\Advanced\ConexãoBancoDeDados\BancoDados\bin\Debug\BancoDados.exe
+C:\Project\CSharp\Advanced\ConexãoBancoDeDados\BancoDados\bin\Debug\BancoDados.pdb
+C:\Project\CSharp\Advanced\ConexãoBancoDeDados\BancoDados\obj\Debug\BancoDados.csproj.AssemblyReference.cache
+C:\Project\CSharp\Advanced\ConexãoBancoDeDados\BancoDados\obj\Debug\BancoDados.Form1.resources
+C:\Project\CSharp\Advanced\ConexãoBancoDeDados\BancoDados\obj\Debug\BancoDados.Properties.Resources.resources
+C:\Project\CSharp\Advanced\ConexãoBancoDeDados\BancoDados\obj\Debug\BancoDados.csproj.GenerateResource.cache
+C:\Project\CSharp\Advanced\ConexãoBancoDeDados\BancoDados\obj\Debug\BancoDados.csproj.CoreCompileInputs.cache
+C:\Project\CSharp\Advanced\ConexãoBancoDeDados\BancoDados\obj\Debug\BancoDados.exe
+C:\Project\CSharp\Advanced\ConexãoBancoDeDados\BancoDados\obj\Debug\BancoDados.pdb

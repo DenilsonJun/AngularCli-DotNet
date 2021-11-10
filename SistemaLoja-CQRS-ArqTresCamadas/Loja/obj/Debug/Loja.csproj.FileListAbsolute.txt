@@ -1,0 +1,5 @@
+C:\Project\CSharp\Advanced\Loja\Loja\obj\Debug\Loja.csproj.AssemblyReference.cache
+C:\Project\CSharp\Advanced\Loja\Loja\obj\Debug\Loja.MDIParent1.resources
+C:\Project\CSharp\Advanced\Loja\Loja\obj\Debug\Loja.Properties.Resources.resources
+C:\Project\CSharp\Advanced\Loja\Loja\obj\Debug\Loja.csproj.GenerateResource.cache
+C:\Project\CSharp\Advanced\Loja\Loja\obj\Debug\Loja.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\Project\CSharp\Advanced\TratamentoErros\TratamentoErros\bin\Debug\TratamentoErros.exe.config
+C:\Project\CSharp\Advanced\TratamentoErros\TratamentoErros\bin\Debug\TratamentoErros.exe
+C:\Project\CSharp\Advanced\TratamentoErros\TratamentoErros\bin\Debug\TratamentoErros.pdb
+C:\Project\CSharp\Advanced\TratamentoErros\TratamentoErros\obj\Debug\TratamentoErros.csproj.AssemblyReference.cache
+C:\Project\CSharp\Advanced\TratamentoErros\TratamentoErros\obj\Debug\TratamentoErros.Form1.resources
+C:\Project\CSharp\Advanced\TratamentoErros\TratamentoErros\obj\Debug\TratamentoErros.Properties.Resources.resources
+C:\Project\CSharp\Advanced\TratamentoErros\TratamentoErros\obj\Debug\TratamentoErros.csproj.GenerateResource.cache
+C:\Project\CSharp\Advanced\TratamentoErros\TratamentoErros\obj\Debug\TratamentoErros.csproj.CoreCompileInputs.cache
+C:\Project\CSharp\Advanced\TratamentoErros\TratamentoErros\obj\Debug\TratamentoErros.exe
+C:\Project\CSharp\Advanced\TratamentoErros\TratamentoErros\obj\Debug\TratamentoErros.pdb

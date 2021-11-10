@@ -1,0 +1,6 @@
+C:\Project\CSharp\Advanced\Loja\LojaDTO\bin\Debug\LojaDTO.dll
+C:\Project\CSharp\Advanced\Loja\LojaDTO\bin\Debug\LojaDTO.pdb
+C:\Project\CSharp\Advanced\Loja\LojaDTO\obj\Debug\LojaDTO.csproj.AssemblyReference.cache
+C:\Project\CSharp\Advanced\Loja\LojaDTO\obj\Debug\LojaDTO.csproj.CoreCompileInputs.cache
+C:\Project\CSharp\Advanced\Loja\LojaDTO\obj\Debug\LojaDTO.dll
+C:\Project\CSharp\Advanced\Loja\LojaDTO\obj\Debug\LojaDTO.pdb

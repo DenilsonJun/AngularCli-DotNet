@@ -1,0 +1,10 @@
+C:\Project\CSharp\Advanced\Loja\LojaDAL\bin\Debug\LojaDAL.dll
+C:\Project\CSharp\Advanced\Loja\LojaDAL\bin\Debug\LojaDAL.pdb
+C:\Project\CSharp\Advanced\Loja\LojaDAL\bin\Debug\LojaDTO.dll
+C:\Project\CSharp\Advanced\Loja\LojaDAL\bin\Debug\LojaDTO.pdb
+C:\Project\CSharp\Advanced\Loja\LojaDAL\obj\Debug\LojaDAL.csproj.AssemblyReference.cache
+C:\Project\CSharp\Advanced\Loja\LojaDAL\obj\Debug\LojaDAL.csproj.CoreCompileInputs.cache
+C:\Project\CSharp\Advanced\Loja\LojaDAL\obj\Debug\LojaDAL.csproj.CopyComplete
+C:\Project\CSharp\Advanced\Loja\LojaDAL\obj\Debug\LojaDAL.dll
+C:\Project\CSharp\Advanced\Loja\LojaDAL\obj\Debug\LojaDAL.pdb
+C:\Project\CSharp\Advanced\Loja\LojaDAL\bin\Debug\LojaDAL.dll.config
